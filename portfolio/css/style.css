@@ -34,7 +34,7 @@ body::before{
     left: 0;
     width: 100%;
     height: 100%;
-    background: url(Snoopy.jpg) center center / cover no-repeat;
+    background: url('../images/Snoopy.jpg') center center / cover no-repeat;
     opacity: 0.5; /* Adjust opacity */
     z-index: -1;  
 
@@ -202,8 +202,8 @@ h1 {
     vertical-align: middle;
     width: 18px;
 }
-#small {
-    color: #efe0e1
+.small {
+    color: #efe0e1;
 }
 .work, .interest-section {
     background: #403b3b;
